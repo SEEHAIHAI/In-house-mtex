@@ -1,0 +1,1 @@
+GND_bas_mean = NaN  1/m^2
